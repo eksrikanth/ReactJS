@@ -1,0 +1,14 @@
+C:\Users\SrikanthEK\source\repos\ReactNetCoreSln\ReactNetCoreBootstrap\bin\Debug\netcoreapp2.2\ReactNetCoreBootstrap.deps.json
+C:\Users\SrikanthEK\source\repos\ReactNetCoreSln\ReactNetCoreBootstrap\bin\Debug\netcoreapp2.2\ReactNetCoreBootstrap.runtimeconfig.json
+C:\Users\SrikanthEK\source\repos\ReactNetCoreSln\ReactNetCoreBootstrap\bin\Debug\netcoreapp2.2\ReactNetCoreBootstrap.runtimeconfig.dev.json
+C:\Users\SrikanthEK\source\repos\ReactNetCoreSln\ReactNetCoreBootstrap\bin\Debug\netcoreapp2.2\ReactNetCoreBootstrap.dll
+C:\Users\SrikanthEK\source\repos\ReactNetCoreSln\ReactNetCoreBootstrap\bin\Debug\netcoreapp2.2\ReactNetCoreBootstrap.pdb
+C:\Users\SrikanthEK\source\repos\ReactNetCoreSln\ReactNetCoreBootstrap\obj\Debug\netcoreapp2.2\ReactNetCoreBootstrap.csprojAssemblyReference.cache
+C:\Users\SrikanthEK\source\repos\ReactNetCoreSln\ReactNetCoreBootstrap\obj\Debug\netcoreapp2.2\ReactNetCoreBootstrap.csproj.CoreCompileInputs.cache
+C:\Users\SrikanthEK\source\repos\ReactNetCoreSln\ReactNetCoreBootstrap\obj\Debug\netcoreapp2.2\ReactNetCoreBootstrap.RazorAssemblyInfo.cache
+C:\Users\SrikanthEK\source\repos\ReactNetCoreSln\ReactNetCoreBootstrap\obj\Debug\netcoreapp2.2\ReactNetCoreBootstrap.RazorAssemblyInfo.cs
+C:\Users\SrikanthEK\source\repos\ReactNetCoreSln\ReactNetCoreBootstrap\obj\Debug\netcoreapp2.2\ReactNetCoreBootstrap.AssemblyInfoInputs.cache
+C:\Users\SrikanthEK\source\repos\ReactNetCoreSln\ReactNetCoreBootstrap\obj\Debug\netcoreapp2.2\ReactNetCoreBootstrap.AssemblyInfo.cs
+C:\Users\SrikanthEK\source\repos\ReactNetCoreSln\ReactNetCoreBootstrap\obj\Debug\netcoreapp2.2\ReactNetCoreBootstrap.RazorTargetAssemblyInfo.cache
+C:\Users\SrikanthEK\source\repos\ReactNetCoreSln\ReactNetCoreBootstrap\obj\Debug\netcoreapp2.2\ReactNetCoreBootstrap.dll
+C:\Users\SrikanthEK\source\repos\ReactNetCoreSln\ReactNetCoreBootstrap\obj\Debug\netcoreapp2.2\ReactNetCoreBootstrap.pdb
